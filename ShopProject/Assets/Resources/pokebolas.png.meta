@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: 82e488f7832c76c42b8e291376bb31a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8612886808959924395
+    second: pokebolas_0
+  - first:
+      213: -817996636503209219
+    second: pokebolas_1
+  - first:
+      213: 1402297306328848327
+    second: pokebolas_2
+  - first:
+      213: 2907402507264303094
+    second: pokebolas_3
+  - first:
+      213: -2008447775387720435
+    second: pokebolas_4
+  - first:
+      213: -8687586389341471221
+    second: pokebolas_5
+  - first:
+      213: 5560257479710853942
+    second: pokebolas_6
+  - first:
+      213: 2700864810000762797
+    second: pokebolas_7
+  - first:
+      213: -8793990198539289083
+    second: pokebolas_8
+  - first:
+      213: -3229146125408009043
+    second: pokebolas_9
+  - first:
+      213: 4210729137392770313
+    second: pokebolas_10
+  - first:
+      213: -6972174801672361601
+    second: pokebolas_11
+  - first:
+      213: -59832920869045310
+    second: pokebolas_12
+  - first:
+      213: -7524784401347510565
+    second: pokebolas_13
+  - first:
+      213: 4517197403073660648
+    second: pokebolas_14
+  - first:
+      213: 6550192045178907846
+    second: pokebolas_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokebolas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba834b27bee178770800000000000000
+      internalID: 8612886808959924395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 670.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa03cd9464e5a4f0800000000000000
+      internalID: -817996636503209219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 670.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7d73d68f5f57310800000000000000
+      internalID: 1402297306328848327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_3
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 670.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff91902d2b295820800000000000000
+      internalID: 2907402507264303094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d056716b36f8024e0800000000000000
+      internalID: -2008447775387720435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 447.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e78cb253e7f6780800000000000000
+      internalID: -8687586389341471221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 447.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bcfd1e7b00a2d40800000000000000
+      internalID: 5560257479710853942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_7
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 447.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7c2722c366b7520800000000000000
+      internalID: 2700864810000762797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e7cc9c18875f580800000000000000
+      internalID: -8793990198539289083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 224.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da40a3b25b4cf23d0800000000000000
+      internalID: -3229146125408009043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_10
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 224.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ddeaf47d38f6a30800000000000000
+      internalID: 4210729137392770313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_11
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 224.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79a36245fbdd3f90800000000000000
+      internalID: -6972174801672361601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbf9b5864e6b2ff0800000000000000
+      internalID: -59832920869045310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdef74a7478929790800000000000000
+      internalID: -7524784401347510565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6c58eda1f40be30800000000000000
+      internalID: 4517197403073660648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokebolas_15
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1.5
+        width: 223.5
+        height: 223.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc6a7fe5f4f6ea50800000000000000
+      internalID: 6550192045178907846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
